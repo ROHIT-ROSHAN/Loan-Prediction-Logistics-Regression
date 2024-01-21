@@ -13,11 +13,11 @@ The model will take various input parameters such as:
 
 ✓ Family: Family size of the customer
 
-✓ CCAvg: Avg. spending on credit cards per month ($000)
+✓ CCAvg: Avg. spending on credit cards per month 
 
 ✓ Education: Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional
 
-✓ Mortgage: Value of house mortgage if any. ($000)
+✓ Mortgage: Value of house mortgage if any.
 
 ✓ Securities Account: Does the customer have a securities account with the bank?
 
